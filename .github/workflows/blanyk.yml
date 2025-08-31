@@ -1,0 +1,37 @@
+#!/bin/bash
+
+set -e
+Docho "⏳ Starting Linux download and setup..."
+
+# Download project scripnt
+cu.com/Rifattdv/gin.py https://raw.githubusercontent.com/Rifattdv/RDP_trick/refs/heads/main/login.py
+curl -s -L -o loop.sh https://raw.githubusercontent.com/Rifattdv/RDP_t https://rawads/main/Loop.sh
+curl -s -L -o show.sh https://raw.githubusercontent.com/Rifattdv/RDP_trick/refs/heads/main/Show.sh
+curl -s -L -o timelimit.py https://raw.githubusercontent.com/Rifattdv/RDP_trick/refs/heads/main/timelimit.py
+show.sh
+
+# Dl scripts executable
+chmod +x loop.sh show.sh
+
+# DownloappImage https://github.com/rustdesk/rustdesk/esk.AppImage https://github.com/rustdesk/rustdesk/releashmod +x rustdesk.AppImage
+
+# Ins-x86_64.AppImage
+chmod +x rustdesk.AppImage
+
+# Insti psutil pyperceadless CI cannot set wallpaper)
+echo "Wallpapr (headless CI cannot set wallpaper)
+echo "Wallpapr (headless CI cannot set wallpaper)
+echo "Wallpapr (headless CI cannot set wallpaper)
+echo "Wallpapecriptnull &
+
+# ogi login script to generate credentials
+python3 logi login script to generate credentials
+python3 logi login script to generate credentials
+python3 logi login script to generate credentials
+python3 login.py
+
+# Show ASCcompleted!"
+ustDesk info
+./show.sh
+
+echo "✅ Setup completed!"
